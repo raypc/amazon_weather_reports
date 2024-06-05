@@ -9,14 +9,14 @@ This repository contains scripts designed to extract, tidy, process, and generat
 # Citation
 
 
-# Repository Structure
-
-├── README.mdnn<br/>
-├── amazon_climate_reports.Rproj<br/>
-├── climate_anomalies/<br/>
-│   ├── droughts_anomalies.ipynb<br/>
-│   ├── precipitation_anomalies.ipynb<br/>
-│   ├── temperature_anomalies.ipynb<br/>
-├── climate_reports/<br/>
-│   ├── amazon_climate_reports.R<br/>
-│   ├── layouts.R
+# # Repository Structure
+# 
+# ├── README.mdnn<br/>
+# ├── amazon_climate_reports.Rproj<br/>
+# ├── climate_anomalies/<br/>
+# │   ├── droughts_anomalies.ipynb<br/>
+# │   ├── precipitation_anomalies.ipynb<br/>
+# │   ├── temperature_anomalies.ipynb<br/>
+# ├── climate_reports/<br/>
+# │   ├── amazon_climate_reports.R<br/>
+# │   ├── layouts.R
