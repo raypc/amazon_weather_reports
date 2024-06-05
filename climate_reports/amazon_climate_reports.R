@@ -1190,7 +1190,7 @@ map_wildfires <-
     , legend_title = "Events"
     , palette = c("#F7C9AAFF", "#fc9272", "#ef3b2c", "#a50f15", "#67000d", "#3c0404")
     , direction = 1
-    , title = "d) Wildfire reports\n"
+    , title = "e) Wildfire reports\n"
   )
 
 # windows()
