@@ -1,5 +1,5 @@
 
-# Climate-Related Disasters in the Amazonian Region 
+# Weather-Related Disasters in the Amazonian Region 
 
 <!-- badges: start -->
 <!-- badges: end -->
